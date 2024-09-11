@@ -5,35 +5,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3636cac-57e2-44be-ade2-9697d27a9db1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/estudios/Estudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/estudios/Estudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/estudios/EstudioGrande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/estudios/EstudioGrande.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/estudios/EstudioMedio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/estudios/EstudioMedio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/estudios/EstudioPequeno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/estudios/EstudioPequeno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projetos/Projeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projetos/Projeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projetos/ProjetoAvancado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projetos/ProjetoAvancado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projetos/ProjetoIntermediario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projetos/ProjetoIntermediario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projetos/ProjetoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projetos/ProjetoSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/estudios/EstudioGrandeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/estudios/EstudioGrandeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/estudios/EstudioMedioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/estudios/EstudioMedioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/estudios/EstudioPequenoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/estudios/EstudioPequenoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lrAFHihK22Rf8ZRSIEYa9nxzPa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/ninho/IdeaProjects/bridge/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.EstudioGrandeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EstudioMedioTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EstudioPequenoTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ninho/IdeaProjects/bridge/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.estudios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EstudioGrandeTest">
+    <configuration name="EstudioGrandeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.estudios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.estudios" />
+      <option name="MAIN_CLASS_NAME" value="org.example.estudios.EstudioGrandeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstudioMedioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.estudios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.estudios" />
+      <option name="MAIN_CLASS_NAME" value="org.example.estudios.EstudioMedioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstudioPequenoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.estudios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.estudios" />
+      <option name="MAIN_CLASS_NAME" value="org.example.estudios.EstudioPequenoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EstudioGrandeTest" />
+        <item itemvalue="JUnit.EstudioMedioTest" />
+        <item itemvalue="JUnit.EstudioPequenoTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,22 +142,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725927718362</updated>
-      <workItem from="1725927719440" duration="2000" />
+      <workItem from="1725927719440" duration="2656000" />
+      <workItem from="1725990393933" duration="3451000" />
+      <workItem from="1726074336092" duration="136000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

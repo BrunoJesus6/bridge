@@ -1,4 +1,5 @@
 package org.example.projetos;
 
-public class Projetos {
+public interface Projeto {
+    float calcularDificuldade();
 }

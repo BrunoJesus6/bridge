@@ -2,11 +2,11 @@ package org.example.estudios;
 
 import org.example.projetos.Projeto;
 
-public abstract class Estudios {
+public abstract class Estudio {
     protected Projeto projeto;
     protected float custoBase;
 
-    public Estudios(float custoBase) {
+    public Estudio(float custoBase) {
         this.custoBase = custoBase;
     }
 
